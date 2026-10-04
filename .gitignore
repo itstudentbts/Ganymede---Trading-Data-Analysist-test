@@ -1,0 +1,20 @@
+# Ignore the anonymized trading dataset used for local analysis
+GANYMEDE_Test_Trading_Data_Anonymise.csv
+ganymade-test-trading-data-ananomys*
+**/GANYMEDE_Test_Trading_Data_Anonymise.csv
+**/ganymade-test-trading-data-ananomys*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local env files
+.env
+.DS_Store
