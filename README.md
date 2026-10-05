@@ -28,6 +28,8 @@ The project also includes visualizations of cumulative PnL and drawdown.
 Ganymede---Trading-Data-Analysist-test/
 ├── data/
 │   └── GANYMEDE_Test_Trading_Data_Anonymise.csv
+├── image/
+│   └── cumulativeand drawdown.png
 ├── src/
 │   ├── backtest.py
 │   └── analysis.py
