@@ -39,6 +39,12 @@ Ganymede---Trading-Data-Analysist-test/
 └── .gitattributes
 ```
 
+## Results Visualization
+
+The cumulative P&L and drawdown chart below summarizes the strategy performance over time:
+
+![Cumulative P&L and Drawdown](image/cumulativeand%20drawdown.png)
+
 ## Requirements
 
 The project requires:
