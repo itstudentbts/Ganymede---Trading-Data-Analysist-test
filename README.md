@@ -82,3 +82,27 @@ pip install -r requirements.txt
 python src/analysis.py
 ```
 
+5. Results:
+
+The strategy generated 18 trades during the analyzed period, with an overall win rate of 83.33%. However, despite the relatively high proportion of profitable trades, the strategy ended the period with a negative total P&L of -323.40 USD and an average loss of -17.97 USD per trade. The profit factor was 0.89, indicating that gross losses exceeded gross gains, and the maximum drawdown reached -2304.50 USD.
+
+Key performance indicators:
+- Total trades: 18
+- Win rate: 83.33%
+- Total P&L: -323.40 USD
+- Average P&L per trade: -17.97 USD
+- Profit factor: 0.89
+- Cumulative P&L: -323.40 USD
+- Maximum drawdown:  2,304.50 USD 
+
+Directional performance:
+- Long trades: 85.71% win rate
+- Short trades: 75.00% win rate
+- Short-side average P&L: 0.75%
+
+Instrument breakdown:
+- MGC 12-26: 4 trades, average R = 0.1428
+- MNQ 12-26: 14 trades, average R = -0.0706
+
+Risk metrics:
+- Maximum adverse excursion (MAE): -2.50 USD
